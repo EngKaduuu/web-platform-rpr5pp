@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+  font-family: 'roboto', sans-serif;
+}
+.tituloPrincipal {
+  text-align: center;
+  font-size: 25px;
+}
+.foco {
+  font-size: 10px;
+}
+.titulo1 {
+  font-size: 20px;
+  display: inline;
+  font-weight: 700;
+}
+.azul {
+  color: blue;
+}
+.sobre {
+  display: inline-block;
+  font-size: 20px;
+}
+.paragrafo {
+  font-size: 15px;
+  color: white;
+  display: block;
+  background-color: rgb(19, 68, 212);
+}
+.paragrafo2 {
+  font-size: 20px;
+  display: inline-block;
+  font-weight: 700;
+}
+.azul2 {
+  color: blue;
+}
+.ol {
+  text-decoration: underline;
+  padding: 20px;
+  margin: 15px;
+  display: grid;
+}
+footer {
+  text-align: center;
+  color: white;
+  background-color: black;
+  padding: 18px;
+}
+.text-blue {
+  color: blue;
+}
